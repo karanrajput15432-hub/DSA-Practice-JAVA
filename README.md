@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0561-array-partition](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0561-array-partition](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0561-array-partition) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -88,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
