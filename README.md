@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0162-find-peak-element) |
 | [0441-arranging-coins](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0441-arranging-coins) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Matrix
 |  |
 | ------- |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0069-sqrtx) |
+## Counting
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
