@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0344-reverse-string) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Newton's Method
 |  |
 | ------- |
@@ -110,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Sliding Window
+|  |
+| ------- |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
