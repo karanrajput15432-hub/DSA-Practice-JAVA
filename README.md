@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0189-rotate-array) |
 | [0441-arranging-coins](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0441-arranging-coins) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/2235-add-two-integers) |
 ## Two Pointers
 |  |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0561-array-partition) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
