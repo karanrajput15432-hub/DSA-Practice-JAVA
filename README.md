@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0074-search-a-2d-matrix) |
+| [0215-kth-largest-element-in-an-array](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -15,4 +16,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0074-search-a-2d-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
