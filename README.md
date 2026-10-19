@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0283-move-zeroes](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0283-move-zeroes) |
 | [0561-array-partition](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0344-reverse-string) |
 ## String
 |  |
