@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0162-find-peak-element) |
 | [0441-arranging-coins](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0441-arranging-coins) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Matrix
 |  |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
