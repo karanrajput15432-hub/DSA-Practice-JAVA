@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0344-reverse-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Newton's Method
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Ternary Search
 |  |
@@ -115,4 +117,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Hash Table
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
