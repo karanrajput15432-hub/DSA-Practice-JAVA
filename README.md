@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0283-move-zeroes) |
 | [0561-array-partition](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0704-binary-search) |
@@ -116,10 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
