@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0881-boats-to-save-people](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0896-monotonic-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0561-array-partition](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0561-array-partition) |
+| [0881-boats-to-save-people](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0881-boats-to-save-people) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0344-reverse-string) |
+| [0881-boats-to-save-people](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0881-boats-to-save-people) |
 ## String
 |  |
 | ------- |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0561-array-partition) |
+| [0881-boats-to-save-people](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0881-boats-to-save-people) |
 ## Counting Sort
 |  |
 | ------- |
@@ -125,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
