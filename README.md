@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0561-array-partition) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0704-binary-search) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0881-boats-to-save-people) |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0441-arranging-coins) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/2235-add-two-integers) |
@@ -123,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sliding Window
 |  |
@@ -135,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Timsort
