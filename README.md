@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0441-arranging-coins) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0349-intersection-of-two-arrays) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0268-missing-number) |
@@ -147,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0881-boats-to-save-people) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
