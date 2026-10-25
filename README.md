@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0042-trapping-rain-water) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0219-contains-duplicate-ii) |
