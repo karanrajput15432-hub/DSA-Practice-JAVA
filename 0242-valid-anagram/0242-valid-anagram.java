@@ -1,44 +1,28 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
         
-        if(s.length() != t.length()) return false;
-        
-        HashMap<Character,Integer> map_s=new HashMap<>();
+       if(s.length() != t.length()) return false;
 
-        for(int i=0;i<s.length();i++){
+       HashMap<Character,Integer> map=new HashMap<>();
 
-            if(map_s.containsKey(s.charAt(i))){
-                int freq=map_s.get(s.charAt(i));
-                map_s.put(s.charAt(i),freq+1);
-            }
+       for(int i=0;i<s.length();i++){
 
-            else map_s.put(s.charAt(i),1);
-        }
+        char ch=s.charAt(i);
+        map.put(ch,map.getOrDefault(ch,0)+1);
 
+       }
 
-        HashMap<Character,Integer> map_t=new HashMap<>();
+       for(int i=0;i<t.length();i++){
 
-        for(int i=0;i<t.length();i++){
+        char ch=t.charAt(i);
 
-            if(map_t.containsKey(t.charAt(i))){
-                int freq=map_t.get(t.charAt(i));
-                map_t.put(t.charAt(i),freq+1);
-            }
+        if(!map.containsKey(ch)) return false;
 
-            else map_t.put(t.charAt(i),1);
-        }
+        map.put(ch,map.get(ch)-1);
+        if(map.get(ch)<0) return false;
 
+       }
 
-        for(int i=0;i<t.length();i++){
-
-            if(!map_s.containsKey(t.charAt(i))) return false;
-
-            int freq_t=map_t.get(t.charAt(i));
-            int freq_s=map_s.get(t.charAt(i));
-
-            if(freq_t!=freq_s) return false;
-        }
-
-        return true;
+       return true;
     }
 }
