@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0709-to-lower-case](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0709-to-lower-case) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Ternary Search
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Timsort
 |  |
@@ -166,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0202-happy-number) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/karanrajput15432-hub/DSA-Practice-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
